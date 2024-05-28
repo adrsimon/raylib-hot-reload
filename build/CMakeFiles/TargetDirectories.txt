@@ -1,0 +1,3 @@
+/Users/adriensimon/Dev/raylib-hot-reload/build/CMakeFiles/raylib-hot-reload.dir
+/Users/adriensimon/Dev/raylib-hot-reload/build/CMakeFiles/edit_cache.dir
+/Users/adriensimon/Dev/raylib-hot-reload/build/CMakeFiles/rebuild_cache.dir
